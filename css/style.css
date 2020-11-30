@@ -863,6 +863,18 @@ a:hover {
   text-transform: uppercase;
 }
 
+.boking-datepicker > input {
+  padding: 10px;
+}
+
+.select-itms select {
+  padding: 10px;
+}
+
+.select-itms select option {
+  padding: 5px;
+}
+
 .header__text-box {
   position: absolute;
   top: 50%;
